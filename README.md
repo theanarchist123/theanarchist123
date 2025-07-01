@@ -94,6 +94,12 @@ const currentlyLearning = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theanarchist123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ## 🤝 Let's Connect!
 
 <div align="center">
