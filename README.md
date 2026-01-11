@@ -60,11 +60,11 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" /> About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_200d_1f4bb/512.gif" alt="Man Technologist" width="35" /> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25"/> Hi there! I'm Nikhil
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Waving Hand" width="25"/> Hi there! I'm Nikhil
 
 ```yaml
 location: "India 🇮🇳"
@@ -82,7 +82,7 @@ philosophy: "Code with purpose, design with passion"
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Quick Highlights
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="Rocket" width="25" /> Quick Highlights
 
 ```typescript
 const nikhil = {
@@ -98,13 +98,13 @@ const nikhil = {
 
 <br clear="right"/>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Bullseye" width="25" /> What I'm Up To
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="Bullseye" width="25" /> What I'm Up To
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="20" /> Currently Working On
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="Alien" width="20" /> Currently Working On
 - 🪄 **Hogwarts** - AI Storybook Generator
 - 💰 **LedgerMind** - AI Expense Tracker
 - 🔧 Building scalable microservices
@@ -113,7 +113,7 @@ const nikhil = {
 </td>
 <td valign="top" width="50%">
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" /> Learning & Exploring
+#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="Books" width="20" /> Learning & Exploring
 - 🤖 LLM Integration & Prompt Engineering
 - 🏗️ System Design & Architecture Patterns
 - ☁️ AWS, Docker & Kubernetes
@@ -130,7 +130,7 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" /> Tech Stack & Tools
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="Hammer and Wrench" width="35" /> Tech Stack & Tools
 
 <div align="center">
 
@@ -165,7 +165,7 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" /> Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="Crystal Ball" width="35" /> Featured Projects
 
 <div align="center">
 <table>
@@ -264,21 +264,21 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" /> GitHub Statistics
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="Chart Increasing" width="35" /> GitHub Statistics
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github&card_width=400" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theanarchist123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=theanarchist123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800&card_width=800" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800&card_width=800" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -286,7 +286,7 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="35" /> Contribution Heatmap
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="Fire" width="35" /> Contribution Heatmap
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theanarchist123&custom_title=Nikhil%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&height=300" alt="Contribution Graph" />
@@ -300,15 +300,15 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Achievements & Trophies
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="Trophy" width="35" /> Achievements & Trophies
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="Trophy" />
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" /> Highlights
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" alt="Star" width="25" /> Highlights
 
 <div align="center">
 
@@ -323,42 +323,42 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="35" /> Learning Journey 2026
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="Books" width="35" /> Learning Journey 2026
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="50" /><br/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="50" /><br/>
 <b>AI/ML</b><br/>
 <sub>LLM Integration</sub><br/>
 <sub>Prompt Engineering</sub><br/>
 <sub>AI UX Design</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="50" /><br/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5_fe0f/512.gif" width="50" /><br/>
 <b>Frontend</b><br/>
 <sub>Next.js 15</sub><br/>
 <sub>Server Actions</sub><br/>
 <sub>Advanced TS</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" /><br/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="50" /><br/>
 <b>Backend</b><br/>
 <sub>Microservices</sub><br/>
 <sub>GraphQL</sub><br/>
 <sub>WebSockets</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="50" /><br/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f1/512.gif" width="50" /><br/>
 <b>Mobile</b><br/>
 <sub>React Native</sub><br/>
 <sub>Flutter Advanced</sub><br/>
 <sub>Animations</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="50" /><br/>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601_fe0f/512.gif" width="50" /><br/>
 <b>DevOps</b><br/>
 <sub>Docker</sub><br/>
 <sub>CI/CD</sub><br/>
@@ -386,7 +386,7 @@ const currentGoals = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Let's Connect & Collaborate!
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="Handshake" width="35" /> Let's Connect & Collaborate!
 
 <div align="center">
 
@@ -431,7 +431,7 @@ const currentGoals = {
 
 <div align="center">
   
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" /> Thanks for visiting!
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.gif" alt="Blue Heart" width="25" /> Thanks for visiting!
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
