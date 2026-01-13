@@ -12,24 +12,24 @@
 <table>
   <tr>
     <td>
-      <img src="https://komarev.com/ghpvc/?username=theanarchist123&label=👁️%20Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=theanarchist123&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
     </td>
     <td>
-      <img src="https://img.shields.io/github/followers/theanarchist123?label=👥%20Followers&style=for-the-badge&color=00d9ff&logo=github" alt="Followers" />
+      <img src="https://img.shields.io/badge/Followers-50+-00d9ff?style=for-the-badge&logo=github" alt="Followers" />
     </td>
     <td>
-      <img src="https://img.shields.io/github/stars/theanarchist123?label=⭐%20Stars&style=for-the-badge&color=ffd700" alt="Stars" />
+      <img src="https://img.shields.io/badge/Stars-100+-ffd700?style=for-the-badge&logo=github" alt="Stars" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/🎯%20Focus-AI%20+%20Web-00d9ff?style=for-the-badge" alt="Focus" />
+      <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Web-00d9ff?style=for-the-badge" alt="Focus" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/💼%20Status-Available-00ff88?style=for-the-badge" alt="Status" />
+      <img src="https://img.shields.io/badge/Status-Available-00ff88?style=for-the-badge" alt="Status" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/🌍%20Based-India-ff9933?style=for-the-badge" alt="Location" />
+      <img src="https://img.shields.io/badge/Based-India-ff9933?style=for-the-badge" alt="Location" />
     </td>
   </tr>
 </table>
@@ -53,18 +53,18 @@
 </p>
 
 <!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/rainbow-divider.gif" width="900">
 
 </div>
 
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f468_200d_1f4bb/512.gif" alt="Man Technologist" width="35" /> About Me
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f468-200d-1f4bb.png" width="35" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/coding-animation.gif">
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Waving Hand" width="25"/> Hi there! I'm Nikhil
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f44b.png" width="25" /> Hi there! I'm Nikhil
 
 ```yaml
 location: "India 🇮🇳"
@@ -82,7 +82,7 @@ philosophy: "Code with purpose, design with passion"
 
 <br/>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="Rocket" width="25" /> Quick Highlights
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f680.png" width="25" /> Quick Highlights
 
 ```typescript
 const nikhil = {
@@ -98,13 +98,13 @@ const nikhil = {
 
 <br clear="right"/>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="Bullseye" width="25" /> What I'm Up To
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3af.png" width="25" /> What I'm Up To
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="Alien" width="20" /> Currently Working On
+#### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f47d.png" width="20" /> Currently Working On
 - 🪄 **Hogwarts** - AI Storybook Generator
 - 💰 **LedgerMind** - AI Expense Tracker
 - 🔧 Building scalable microservices
@@ -113,7 +113,7 @@ const nikhil = {
 </td>
 <td valign="top" width="50%">
 
-#### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="Books" width="20" /> Learning & Exploring
+#### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4da.png" width="20" /> Learning & Exploring
 - 🤖 LLM Integration & Prompt Engineering
 - 🏗️ System Design & Architecture Patterns
 - ☁️ AWS, Docker & Kubernetes
@@ -124,13 +124,13 @@ const nikhil = {
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/aqua-divider.gif" width="400">
 </div>
 
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="Hammer and Wrench" width="35" /> Tech Stack & Tools
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f6e0.png" width="35" /> Tech Stack & Tools
 
 <div align="center">
 
@@ -165,7 +165,7 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="Crystal Ball" width="35" /> Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f52e.png" width="35" /> Featured Projects
 
 <div align="center">
 <table>
@@ -264,21 +264,21 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="Chart Increasing" width="35" /> GitHub Statistics
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4ca.png" width="35" /> GitHub Statistics
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com/?user=theanarchist123&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=theanarchist123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800&card_width=800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -286,7 +286,7 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="Fire" width="35" /> Contribution Heatmap
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f525.png" width="35" /> Contribution Heatmap
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theanarchist123&custom_title=Nikhil%27s%20Contribution%20Graph&theme=github-compact&hide_border=true&area=true&height=300" alt="Contribution Graph" />
@@ -300,15 +300,15 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="Trophy" width="35" /> Achievements & Trophies
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3c6.png" width="35" /> Achievements & Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy" />
 
 </div>
 
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2b50/512.gif" alt="Star" width="25" /> Highlights
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2b50.png" width="25" /> Highlights
 
 <div align="center">
 
@@ -323,42 +323,42 @@ const nikhil = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" alt="Books" width="35" /> Learning Journey 2026
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4da.png" width="35" /> Learning Journey 2026
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="50" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f916.png" width="50" /><br/>
 <b>AI/ML</b><br/>
 <sub>LLM Integration</sub><br/>
 <sub>Prompt Engineering</sub><br/>
 <sub>AI UX Design</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5_fe0f/512.gif" width="50" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png" width="50" /><br/>
 <b>Frontend</b><br/>
 <sub>Next.js 15</sub><br/>
 <sub>Server Actions</sub><br/>
 <sub>Advanced TS</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="50" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2699.png" width="50" /><br/>
 <b>Backend</b><br/>
 <sub>Microservices</sub><br/>
 <sub>GraphQL</sub><br/>
 <sub>WebSockets</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f1/512.gif" width="50" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4f1.png" width="50" /><br/>
 <b>Mobile</b><br/>
 <sub>React Native</sub><br/>
 <sub>Flutter Advanced</sub><br/>
 <sub>Animations</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601_fe0f/512.gif" width="50" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2601.png" width="50" /><br/>
 <b>DevOps</b><br/>
 <sub>Docker</sub><br/>
 <sub>CI/CD</sub><br/>
@@ -386,11 +386,11 @@ const currentGoals = {
 
 <br/>
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="Handshake" width="35" /> Let's Connect & Collaborate!
+## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f91d.png" width="35" /> Let's Connect & Collaborate!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/fire.png" alt="Fire" width="100" />
 
 ### 💼 Open to exciting opportunities, innovative projects, and collaborations!
 
@@ -400,19 +400,19 @@ const currentGoals = {
 <tr>
 <td align="center" width="33%">
 <a href="https://www.linkedin.com/in/nikhil-kadam-20584930a/">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/linkedin.gif" width="100" /><br/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://x.com/NikhilK97045129">
-<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/twitter.gif" width="100" /><br/>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://www.instagram.com/immortalleagacy?igsh=MXFoNmdqM3g2Nms3YQ==">
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/instagram.gif" width="100" /><br/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </td>
@@ -431,13 +431,13 @@ const currentGoals = {
 
 <div align="center">
   
-### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.gif" alt="Blue Heart" width="25" /> Thanks for visiting!
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f499.png" width="25" /> Thanks for visiting!
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/aqua-divider.gif" width="400">
 
 ### ⭐ From [Nikhil Kadam](https://github.com/theanarchist123) with 💙
 
