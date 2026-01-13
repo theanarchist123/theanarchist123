@@ -270,7 +270,7 @@ const nikhil = {
 <table>
 <tr>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </td>
 <td width="50%" align="center">
   <img src="https://streak-stats.demolab.com/?user=theanarchist123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -278,7 +278,7 @@ const nikhil = {
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -304,7 +304,7 @@ const nikhil = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&v=1" alt="Trophy" />
 
 </div>
 
@@ -400,19 +400,19 @@ const currentGoals = {
 <tr>
 <td align="center" width="33%">
 <a href="https://www.linkedin.com/in/nikhil-kadam-20584930a/">
-<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/linkedin.gif" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/linkedin.gif?v=1" width="100" /><br/>
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://x.com/NikhilK97045129">
-<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/twitter.gif" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/twitter.gif?v=1" width="100" /><br/>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
 </a>
 </td>
 <td align="center" width="33%">
 <a href="https://www.instagram.com/immortalleagacy?igsh=MXFoNmdqM3g2Nms3YQ==">
-<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/instagram.gif" width="100" /><br/>
+<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/readme/instagram.gif?v=1" width="100" /><br/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 </td>
