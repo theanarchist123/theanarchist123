@@ -1,221 +1,338 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Kadam&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Innovator%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nikhil%20Kadam&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=17" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+The+Future+With+Code+%26+AI;Crafting+Scalable+Cloud+Solutions;Designing+Immersive+User+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1200&color=A855F7&center=true&vCenter=true&width=760&lines=I+build+AI-powered+products+that+people+actually+use.;From+idea+%E2%86%92+MVP+%E2%86%92+scale%2C+fast+and+clean.;Code.+Cloud.+Creativity.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=theanarchist123&color=blueviolet&style=flat-square)](https://github.com/theanarchist123)
-[![GitHub Followers](https://img.shields.io/github/followers/theanarchist123?style=flat-square&color=purple&label=Followers)](https://github.com/theanarchist123?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/theanarchist123?style=flat-square&color=yellow&label=Stars)](https://github.com/theanarchist123)
+[![Followers](https://img.shields.io/github/followers/theanarchist123?style=flat-square&color=7c3aed&label=Followers)](https://github.com/theanarchist123?tab=followers)
+[![Stars](https://img.shields.io/github/stars/theanarchist123?style=flat-square&color=f59e0b&label=Stars)](https://github.com/theanarchist123)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Love-ec4899?style=flat-square)](https://github.com/theanarchist123?tab=repositories)
+[![Commits](https://img.shields.io/github/commit-activity/m/theanarchist123/theanarchist123?style=flat-square&color=10b981&label=Activity)](https://github.com/theanarchist123)
+[![Response](https://img.shields.io/badge/Response%20Time-Fast-06b6d4?style=flat-square)](https://github.com/theanarchist123)
 
-<img src="assets/readme/rainbow-divider.gif" width="100%"/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-<img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+## 🚀 About Me
 
-```javascript
-const nikhil = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    expertise: ["AI/ML", "Cloud", "Mobile"],
-    currentFocus: "Building AI-powered SaaS",
-    motto: "Coffee ☕ → Code 💻 → Deploy 🚀"
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```ts
+const nikhilKadam = {
+  location: "India 🇮🇳",
+  role: "Full-Stack Developer",
+  focus: ["AI Products", "Scalable Web Apps", "Cloud-Native Systems"],
+  currentlyBuilding: "AI-first SaaS + real-world automation tools",
+  learningNow: ["System Design", "Cloud Architecture", "Performance Engineering"],
+  philosophy: "Build useful things. Keep it elegant. Ship fast."
 };
 ```
 
-- 🔭 Currently working on **AI-powered applications**
-- 🌱 Learning **System Design** & **Cloud Architecture**
-- 👯 Open to collaborate on **innovative projects**
-- 💬 Ask me about **React, Next.js, Node.js, AI/ML**
-- ⚡ Fun fact: **I can center a div on the first try**
-- 🎯 2026 Goal: **Contribute more to Open Source**
+- 🔭 Building AI-powered apps with meaningful UX
+- 🧠 Exploring modern architecture patterns for scale
+- 🤝 Open to collaboration on products, platforms, and open source
+- 💬 Ask me about React, Next.js, Node.js, TypeScript, AI integration
+- 🎯 2026 Goal: Build more public products and contribute more to OSS
 
 <br clear="both"/>
 
-<div align="center">
-<img src="assets/readme/aqua-divider.gif" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages & Frameworks**
+### Languages & Frameworks
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,java,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,java" />
 </a>
 
-**Frontend & Styling**
+### Frontend & UI
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,bootstrap,materialui" />
 </a>
 
-**Databases & Backend**
+### Backend, Data & Infra
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,docker,aws" />
 </a>
 
-**Mobile & Cloud**
+### Tools I Use Daily
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,flutter,aws,docker,vercel,netlify" />
-</a>
-
-**Tools & Others**
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,vercel,netlify" />
 </a>
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 Featured Builds
+
 <div align="center">
-<img src="assets/readme/rainbow-divider.gif" width="100%"/>
+
+### 💪 Skill Mastery Radar
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,python,aws,docker,mongodb&perline=8" />
+
+```text
+Frontend  ████████████████████░   95%
+Backend   ██████████████████░░░   90%
+AI/ML     ███████████████░░░░░   85%
+Cloud     ████████████████░░░░   80%
+Mobile    ███████████████░░░░░   75%
+DevOps    ██████████████░░░░░░   70%
+```
+
 </div>
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧙 Hogwarts — AI Storybook Generator
+
+Transform prompts into complete storybooks in minutes using Groq Llama 3.3 + image generation workflows.
+
+**Highlights**
+- Multi-chapter generation
+- AI illustrations per scene
+- Flip-book reader + export options
+
+**Stack:** Next.js • TypeScript • AI APIs
+
+[![View Project](https://img.shields.io/badge/View_Code-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanarchist123)
+
+  </td>
+  <td width="50%" valign="top">
+
+### 💸 LedgerMind — AI Expense Tracker
+
+Smart finance assistant with OCR, ML categorization, and behavior insights for better spending decisions.
+
+**Highlights**
+- Receipt OCR and parsing
+- Auto-categorization engine
+- Conversational expense querying
+
+**Stack:** React • Node.js • MongoDB
+
+[![View Project](https://img.shields.io/badge/View_Code-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanarchist123)
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ✈️ Tourvisto — Travel Platform
+
+Unified travel platform for destination discovery, booking, and community-based reviews.
+
+**Highlights**
+- Destination recommendation flow
+- Unified bookings
+- Review and engagement system
+
+**Stack:** Next.js • Express • MongoDB
+
+[![View Project](https://img.shields.io/badge/View_Code-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanarchist123)
+
+  </td>
+  <td width="50%" valign="top">
+
+### 💬 Converso — Real-time Chat
+
+Cross-platform chat app focused on speed, media sharing, and smooth communication.
+
+**Highlights**
+- Real-time messaging
+- Group communication
+- Multimedia + notifications
+
+**Stack:** React Native • Socket.io • MongoDB
+
+[![View Project](https://img.shields.io/badge/View_Code-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanarchist123)
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+
+[![All Repositories](https://img.shields.io/badge/Explore_All_Projects-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanarchist123?tab=repositories)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&count_private=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=theanarchist123&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" />
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=theanarchist123&bg_color=0D1117&color=A855F7&line=EC4899&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
+
+### 🎖️ Achievement Badges
+
+![](https://img.shields.io/badge/Code%20Quality-A+-success?style=for-the-badge&logo=codacy&logoColor=white)
+![](https://img.shields.io/badge/Response%20Time-24h-blue?style=for-the-badge&logo=clockify&logoColor=white)
+![](https://img.shields.io/badge/Projects-50+-orange?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Clients-30+-purple?style=for-the-badge&logo=handshake&logoColor=white)
+![](https://img.shields.io/badge/Satisfaction-100%25-brightgreen?style=for-the-badge&logo=smile&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theanarchist123&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=EC4899&point=FFFFFF&area_color=A855F7&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/theanarchist123)
+
+### 🎯 Milestones
+
+<table>
+<tr>
+<td align="center" width="150">
+<br/>
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/><br/>
+<b>50+ Projects</b><br/>
+<sub>Built & Shipped</sub>
+<br/><br/>
+</td>
+<td align="center" width="150">
+<br/>
+<img src="https://img.icons8.com/fluency/96/000000/user-male-circle.png" width="80"/><br/>
+<b>8+ Years</b><br/>
+<sub>Experience</sub>
+<br/><br/>
+</td>
+<td align="center" width="150">
+<br/>
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="80"/><br/>
+<b>100K+ Lines</b><br/>
+<sub>Code Written</sub>
+<br/><br/>
+</td>
+<td align="center" width="150">
+<br/>
+<img src="https://img.icons8.com/fluency/96/000000/business.png" width="80"/><br/>
+<b>30+ Clients</b><br/>
+<sub>Satisfied</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📌 Snapshot
+
+<div align="center">
+
+| Projects Shipped | Core Experience | Focus Area | Collaboration |
+|:----------------:|:---------------:|:----------:|:-------------:|
+| 50+ | 8+ Years | AI + Full-Stack | Open for impactful builds |
+
+### ⚡ Current Tech Focus
+
+<table>
+<tr>
+<td align="center"><img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/><br/><b>AI/ML</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/000000/react-native.png" width="60"/><br/><b>React/Next.js</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60"/><br/><b>Node.js</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="60"/><br/><b>Cloud</b></td>
+<td align="center"><img src="https://img.icons8.com/color/96/000000/typescript.png" width="60"/><br/><b>TypeScript</b></td>
+</tr>
+</table>
+
+</div>
+
+---
+## 📊 Code Metrics
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🧙‍♂️ Hogwarts - AI Storybook Generator
+**Most Used Languages**
 
-<img src="https://images.unsplash.com/photo-1618519764620-7403abdbdfe9?w=800&h=400&fit=crop"/>
-
-Transform text prompts into complete storybooks in **3 minutes** with Groq Llama 3.3 70B and Google Imagen AI.
-
-**Features:** Multi-chapter narratives • Auto-illustrations • Flip-book reader • Export as EPUB/DOCX/PDF
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
-![AI](https://img.shields.io/badge/-Groq%20AI-orange?style=flat-square)
-
-[![View Project](https://img.shields.io/badge/View_Code-purple?style=for-the-badge&logo=github)](https://github.com/theanarchist123)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8&hide=html,css" />
 
 </td>
-<td width="50%">
+<td>
 
-### 💰 LedgerMind - AI Expense Tracker
+**Productivity Stats**
 
-<img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=400&fit=crop"/>
+```text
+🌞 Morning    ██████░░░░░░  45%
+🌆 Afternoon  ████████░░░░  65%
+🌃 Evening    ██████████░░  85%
+🌙 Night      ████████████ 100%
 
-Smart expense tracking with **95%+ OCR accuracy**, ML categorization, and emotional spending insights.
-
-**Features:** AI-powered OCR • Smart categorization • Natural language queries • Carbon tracking
-
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-
-[![View Project](https://img.shields.io/badge/View_Code-purple?style=for-the-badge&logo=github)](https://github.com/theanarchist123)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✈️ Tourvisto - Travel Platform
-
-<img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800&h=400&fit=crop"/>
-
-Complete travel booking platform with destination discovery, unified booking, and community reviews.
-
-**Features:** Destination engine • Unified booking • Community reviews • Responsive design
-
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-gray?style=flat-square&logo=express)
-
-[![View Project](https://img.shields.io/badge/View_Code-purple?style=for-the-badge&logo=github)](https://github.com/theanarchist123)
-
-</td>
-<td width="50%">
-
-### 💬 Converso - Real-time Chat
-
-<img src="https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=800&h=400&fit=crop"/>
-
-Cross-platform chat application with real-time messaging, multimedia support, and group functionality.
-
-**Features:** Socket.io messaging • Multimedia sharing • Group chats • Push notifications
-
-![React Native](https://img.shields.io/badge/-React_Native-blue?style=flat-square&logo=react)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-
-[![View Project](https://img.shields.io/badge/View_Code-purple?style=for-the-badge&logo=github)](https://github.com/theanarchist123)
+📅 Best Day   Friday
+⚡ Peak Hour  10 PM - 2 AM
+☕ Fuel       Coffee & Code
+```
 
 </td>
 </tr>
 </table>
 
-[![View All](https://img.shields.io/badge/🔗_View_All_Projects-blueviolet?style=for-the-badge)](https://github.com/theanarchist123?tab=repositories)
-
 </div>
 
-<div align="center">
-<img src="assets/readme/aqua-divider.gif" width="100%"/>
-</div>
+---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus & Goals
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=theanarchist123&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=EC4899&currStreakLabel=A855F7" />
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=theanarchist123&bg_color=0D1117&color=A855F7&line=EC4899&point=FFFFFF&area=true&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&langs_count=8" />
-
-</div>
-
-<div align="center">
-<img src="assets/readme/rainbow-divider.gif" width="100%"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=theanarchist123&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15)](https://github.com/theanarchist123)
+| 🚀 Building | 📚 Learning | 🎯 Target | 🤝 Looking For |
+|:---:|:---:|:---:|:---:|
+| AI-powered SaaS | System Design | 100K+ impact | Collaboration |
+| Open Source Tools | Cloud Architecture | Global Scale | Innovative Projects |
+| Mobile Apps | ML/AI Integration | Product Excellence | Tech Communities |
 
 </div>
 
-<div align="center">
-<img src="assets/readme/aqua-divider.gif" width="100%"/>
-</div>
-
-## 🎯 Quick Stats
+---
+## 🤝 Let’s Connect
 
 <div align="center">
 
-| 💼 Projects | ⏳ Experience | 💻 Lines of Code | ❤️ Clients |
-|:----------:|:------------:|:---------------:|:---------:|
-| **50+** | **8+ Years** | **100K+** | **30+** |
+### 📬 Reach Me On
 
-</div>
-
-<div align="center">
-<img src="assets/readme/rainbow-divider.gif" width="100%"/>
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanarchist123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kadam-20584930a/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NikhilK97045129)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theanarchist123)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kadam-20584930a/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NikhilK97045129)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/immortalleagacy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilkadam@example.com)
 
@@ -223,86 +340,98 @@ Cross-platform chat application with real-time messaging, multimedia support, an
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center">
 <a href="https://github.com/theanarchist123">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
-<br/><sub><b>GitHub</b></sub>
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="70"/><br/>
+<sub><b>Follow on GitHub</b></sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <a href="https://www.linkedin.com/in/nikhil-kadam-20584930a/">
-<img src="assets/readme/linkedin.gif" width="80"/>
-<br/><sub><b>LinkedIn</b></sub>
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="70"/><br/>
+<sub><b>Connect on LinkedIn</b></sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <a href="https://x.com/NikhilK97045129">
-<img src="assets/readme/twitter.gif" width="80"/>
-<br/><sub><b>Twitter</b></sub>
+<img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="70"/><br/>
+<sub><b>Follow on X</b></sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center">
 <a href="https://www.instagram.com/immortalleagacy">
-<img src="assets/readme/instagram.gif" width="80"/>
-<br/><sub><b>Instagram</b></sub>
+<img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="70"/><br/>
+<sub><b>Follow on Instagram</b></sub>
 </a>
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<div align="center">
-<img src="assets/readme/aqua-divider.gif" width="100%"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-<img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+💡 **Always open to interesting projects and collaboration opportunities!**
 
 </div>
 
-<div align="center">
-<img src="assets/readme/rainbow-divider.gif" width="100%"/>
-</div>
+---
 
-## 💭 Random Dev Quote
+## 💭 Random Dev Wisdom
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-<div align="center">
-<img src="assets/readme/aqua-divider.gif" width="100%"/>
-</div>
+---
 
 ## ☕ Support My Work
 
 <div align="center">
 
-<p>If you like what I do, maybe consider buying me a coffee? 🥺</p>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/emoji/96/000000/coffee-emoji.png" width="80"/><br/>
+<b>Buy Me Coffee</b><br/>
+<sub>Fuel late-night coding</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/emoji/96/000000/star-emoji.png" width="80"/><br/>
+<b>Star Repos</b><br/>
+<sub>Show some love</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/emoji/96/000000/handshake-emoji.png" width="80"/><br/>
+<b>Collaborate</b><br/>
+<sub>Build together</sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://www.buymeacoffee.com/theanarchist123">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" width="210" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" width="210" />
 </a>
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="150"/>
+**Every contribution helps keep the servers running and creativity flowing!** ✨
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="assets/readme/rainbow-divider.gif" width="100%"/>
+### 💭 Builder Mindset
+
+> "Code is craft. Products are promises. Execution is everything."
+
+<br/>
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60">
 
 <br/>
 
@@ -310,12 +439,10 @@ Cross-platform chat application with real-time messaging, multimedia support, an
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<br/>
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![By Nikhil Kadam](https://img.shields.io/badge/by-Nikhil%20Kadam-purple?style=for-the-badge)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ef4444?style=for-the-badge)
+![By Nikhil Kadam](https://img.shields.io/badge/by-Nikhil%20Kadam-7c3aed?style=for-the-badge)
 
 <br/>
 
@@ -323,11 +450,6 @@ Cross-platform chat application with real-time messaging, multimedia support, an
 
 <br/>
 
-*"Code is like humor. When you have to explain it, it's bad."* – **Cory House**
-
-<br/>
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="60">
+*"First, solve the problem. Then, write the code."* – **John Johnson**
 
 </div>
-
