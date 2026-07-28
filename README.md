@@ -9,8 +9,50 @@
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=theanarchist123&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=theanarchist123&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats-sand-tau-97.vercel.app/api?username=theanarchist123&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-sand-tau-97.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
+
+<h3 align="center">PROJECTS.LIST</h3>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/theanarchist123/griha-ai">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=griha-ai&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="Griha AI" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/theanarchist123/converso">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=converso&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="Converso" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/theanarchist123/oncopilot">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=oncopilot&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="OnCopilot" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/theanarchist123/ledgermind">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=ledgermind&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="LedgerMind" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/theanarchist123/kisan-vaani">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=kisan-vaani&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="Kisan Vaani" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/theanarchist123/hacknova-aid">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=hacknova-aid&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="HackNova Aid" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
