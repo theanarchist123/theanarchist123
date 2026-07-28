@@ -35,20 +35,20 @@
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/theanarchist123/ledgermind">
-          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=ledgermind&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="LedgerMind" />
+        <a href="https://github.com/theanarchist123/LedgerMind">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=LedgerMind&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="LedgerMind" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/theanarchist123/kisan-vaani">
-          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=kisan-vaani&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="Kisan Vaani" />
+        <a href="https://github.com/theanarchist123/KisanVaani">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=KisanVaani&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="Kisan Vaani" />
         </a>
       </td>
       <td width="50%">
-        <a href="https://github.com/theanarchist123/hacknova-aid">
-          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=hacknova-aid&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="HackNova Aid" />
+        <a href="https://github.com/theanarchist123/MindBridge">
+          <img src="https://github-readme-stats-sand-tau-97.vercel.app/api/pin/?username=theanarchist123&repo=MindBridge&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" width="100%" alt="MindBridge" />
         </a>
       </td>
     </tr>
