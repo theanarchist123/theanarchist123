@@ -1,0 +1,46 @@
+<svg width="760" height="340" viewBox="0 0 760 340" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="card"><rect x="0" y="0" width="760" height="340" rx="14" ry="14"/></clipPath>
+    <clipPath id="cl1"><rect x="40" y="58" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.0;0.027;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl2"><rect x="40" y="82" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.041;0.082;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl3"><rect x="40" y="106" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.136;0.164;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl4"><rect x="40" y="130" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.177;0.223;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl5"><rect x="40" y="154" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.273;0.300;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl6"><rect x="40" y="178" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.314;0.350;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl7"><rect x="40" y="202" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.364;0.391;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl8"><rect x="40" y="226" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.405;0.436;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl9"><rect x="40" y="250" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.500;0.527;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="cl10"><rect x="40" y="274" width="0" height="22"><animate attributeName="width" values="0;0;700;700" keyTimes="0;0.541;0.577;1" dur="22s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="760" height="340" fill="#1e1e2e"/>
+    <rect width="760" height="36" fill="#181825"/>
+    <circle cx="22" cy="18" r="6" fill="#ff5f56"/>
+    <circle cx="42" cy="18" r="6" fill="#ffbd2e"/>
+    <circle cx="62" cy="18" r="6" fill="#27c93f"/>
+    <text x="380" y="22" font-family="Menlo, Consolas, monospace" font-size="12" fill="#7f849c" text-anchor="middle">nikhil@vesit: ~/crux — zsh — 80x24</text>
+
+    <g font-family="Menlo, Consolas, monospace" font-size="15">
+      <g clip-path="url(#cl1)"><text x="40" y="74" fill="#89b4fa">❯ whoami</text></g>
+      <g clip-path="url(#cl2)"><text x="40" y="98" fill="#cdd6f4">  nikhil-kadam · final-year IT · VESIT Mumbai</text></g>
+
+      <g clip-path="url(#cl3)"><text x="40" y="122" fill="#89b4fa">❯ cat currently_building.md</text></g>
+      <g clip-path="url(#cl4)"><text x="40" y="146" fill="#cdd6f4">  Crux → PPT/PDF pipeline that spits out exam-ready notes</text></g>
+
+      <g clip-path="url(#cl5)"><text x="40" y="170" fill="#89b4fa">❯ git log --oneline -3</text></g>
+      <g clip-path="url(#cl6)"><text x="40" y="194" fill="#9399b2">  a1b2c3d ship griha-ai three-way voice negotiation</text></g>
+      <g clip-path="url(#cl7)"><text x="40" y="218" fill="#9399b2">  e9f4a01 win nexathon 🏆 1st place</text></g>
+      <g clip-path="url(#cl8)"><text x="40" y="242" fill="#9399b2">  7c22b5e gate-2027 grind — day 47</text></g>
+
+      <g clip-path="url(#cl9)"><text x="40" y="266" fill="#89b4fa">❯ echo $STATUS</text></g>
+      <g clip-path="url(#cl10)"><text x="40" y="290" fill="#a6e3a1">  open to backend / agentic-AI roles</text></g>
+    </g>
+
+    <rect x="345" y="274" width="9" height="16" fill="#a6e3a1">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.577;0.6;0.99;1" dur="22s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0.5" y="0.5" width="759" height="339" rx="14" ry="14" fill="none" stroke="#313244" stroke-width="1"/>
+</svg>
