@@ -75,8 +75,4 @@
   <a href="mailto:nikhilrkadam2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://griha-ai-728z.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
-  </a>
 </div>
