@@ -1,64 +1,84 @@
-<div align="center">
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nikhil%20Kadam&fontSize=80&fontAlignY=35&animation=twinkle&fontColor=gradient)](https://github.com/theanarchist123)
 
-<img src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/main/assets/network.svg" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Agentic+AI+Engineer;Full-Stack+Developer;Final-Year+IT+%40+VESIT;Always+Learning%2C+Always+Building)](https://git.io/typing-svg) [![Profile Views](https://komarev.com/ghpvc/?username=theanarchist123&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/theanarchist123)
 
-<br/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=70&lines=7+agents+negotiate+real+estate+so+humans+don't+have+to;150-page+PPT+in+%E2%86%92+exam-ready+notes+out;final-year+IT+%40+VESIT%2C+Mumbai" alt="typing" />
+## 🚀 About Me
 
-<br/><br/>
+[![Coding](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kadam-20584930a/)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-05070d?style=for-the-badge&logo=instagram&logoColor=ff2e63&labelColor=05070d)](https://www.instagram.com/_immortalleagacy_/)
-&nbsp;
-[![Griha AI](https://img.shields.io/badge/Griha_AI-05070d?style=for-the-badge&logo=vercel&logoColor=00e5ff&labelColor=05070d)](https://griha-ai-728z.vercel.app/)
+> *"Systems that do the annoying part for you — that's the only kind of software worth shipping."*
 
-</div>
+🔎 **Agentic AI Engineer** and **Full-Stack Developer** building multi-agent systems that go do real-world work — negotiate real estate deals, read 150-page PPTs, tutor 39 subjects at once. Final-year IT student at VESIT, Mumbai, shipping in parallel with placements and GATE 2027 prep.
 
-<br/>
+### 🎯 Currently Focused On:
 
-I don't build dashboards. I build things that go do the annoying part themselves — an AI that negotiates your rent, a pipeline that reads your professor's 150-slide PPT so you don't have to, 39 tutors that never get tired of your questions.
+- 🤖 **Agentic AI & LLMs** — multi-agent pipelines, RAG, LangGraph orchestration
+- 🏗️ **Full-Stack Development** — Next.js, FastAPI, MongoDB Atlas
+- 🎙️ **Voice + Automation** — Vapi negotiation agents, Playwright browser automation
+- 📚 **Crux** — zero-budget study companion, PPT/PDF → exam-ready notes
 
-<br/>
+---
 
-## agents in production
+## 🏆 Recent Achievements
 
-| system | what it actually does |
-|---|---|
-| 🏠 **[Griha AI](https://github.com/theanarchist123/griha_ai)** | 7-agent real estate stack — scraper, matcher, legal, contract, negotiation — closes with a live 3-way Vapi voice call, not a form |
-| 🎓 **[Converso](https://github.com/theanarchist123/Converso)** | 39 subject-specific AI tutors, spaced repetition, session recaps — a whole faculty in one app |
-| 🧠 **Crux** *(building now)* | rule-based classify → diagram extraction → map-reduce LLM compression, turns a dead-weight PPT into notes you'll actually read |
-| 🩺 **OnCopilot** | clinical decision support for breast cancer diagnostics |
-| 🧾 **LedgerMind** | receipt → structured expense data, 98% OCR accuracy |
-| 🚨 **FraudShield** | ONNX inference running straight inside Next.js, no separate model server |
+| 🏆 **Achievement** | 📅 **When** | 🎯 **Impact** |
+|---|---|---|
+| 🥇 **Nexathon Hackathon** | 2025 | 1st Place — Kisan Vaani, Hindi AI voice assistant for farmers |
+| 🥈 **Hackcelestial Hackathon** | 2025 | 2nd Place — HackNova_Aid, offline disaster-relief app |
+| 🏗️ **Griha AI** | 2025 | 7-agent real estate platform with live voice negotiation |
+| 🎓 **Converso** | 2025 | 39-tutor AI learning platform shipped solo |
 
-🥇 Nexathon — Kisan Vaani (Hindi voice assistant for farmers) · 🥈 Hackcelestial — HackNova_Aid (offline disaster-relief app)
+---
 
-<br/>
+## 💻 Tech Stack
 
-## stack
+### 🚀 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,nextjs,react,flutter" />
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,nextjs,react,flutter,fastapi,mongodb,supabase,firebase,git,vercel"/>
+### 🤖 AI / Backend
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,firebase,supabase" />
 
-<br/><br/>
+### 🛠️ Dev Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,vercel,postman" />
 
-## contribution snake
+---
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theanarchist123/theanarchist123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theanarchist123/theanarchist123/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/theanarchist123/theanarchist123/output/github-snake.svg" width="100%"/>
-</picture>
-</div>
+## 📊 GitHub Analytics
 
-<br/>
+[![](https://github-readme-stats-sigma-five.vercel.app/api?username=theanarchist123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/theanarchist123) [![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theanarchist123&layout=compact&theme=tokyonight)](https://github.com/theanarchist123)
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=theanarchist123&hide_border=true&background=05070D&stroke=00E5FF&ring=C084FC&fire=FF2E63&currStreakLabel=00E5FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=00E5FF" width="100%"/>
-</div>
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=theanarchist123&theme=tokyonight)](https://github.com/theanarchist123)
 
-<br/>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=theanarchist123&theme=tokyo-night&hide_border=true)](https://github.com/theanarchist123)
 
-<div align="center"><sub>open to backend / agentic-AI roles — <a href="https://www.linkedin.com/in/nikhil-kadam-20584930a/">let's talk</a></sub></div>
+---
+
+## 🌟 Featured Projects
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanarchist123&repo=GRIHA-AI&theme=tokyonight)](https://github.com/theanarchist123/GRIHA-AI) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanarchist123&repo=Converso&theme=tokyonight)](https://github.com/theanarchist123/Converso) [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanarchist123&repo=MindBridge&theme=tokyonight)](https://github.com/theanarchist123/MindBridge)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=theanarchist123&repo=Oncopilot&theme=tokyonight)](https://github.com/theanarchist123/Oncopilot)
+---
+
+## 🌐 Connect With Me
+
+### 💬 Let's Build Something Together!
+
+*Open to backend / agentic-AI roles, collaborations, and conversations about multi-agent systems.*
+
+### 📫 Reach Me At:
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-kadam-20584930a/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
+  <a href="https://twitter.com/NikhilK97045129"><img src="https://skillicons.dev/icons?i=twitter" width="48" /></a>
+  <a href="https://www.instagram.com/_immortalleagacy_/"><img src="https://skillicons.dev/icons?i=instagram" width="48" /></a>
+</p>
+</br>
+---
+
+### 🚀 Always Learning, Always Building, Always Shipping
+
+*"Talk is cheap. Show me the repo."*
+
+[![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)](https://github.com/theanarchist123)
